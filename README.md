@@ -11,4 +11,4 @@ Step 2 - Paste it on your IDLE.
 
 Step 3 - Run the code
 
-By following these steps you can access my calculator
+By following these steps you can access my game.
